@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "code-runner.executorMap": {
+        "java": "cd /home/jctinin/estudos/creational-patterns-ref && javac -sourcepath src/main/java -d target/classes src/main/java/br/com/cod3r/factory/apple/before/Client.java && java -cp target/classes br.com.cod3r.factory.apple.before.Client"
+    },
+    "code-runner.runInTerminal": true
+}
